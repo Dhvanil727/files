@@ -1,0 +1,14 @@
+git commands
+
+GLOBAL 
+git config --global user.name “Dhvanil_patel”
+git config –-global user.email “dhvanilpatel727@gmail.com”
+
+
+git init
+git clone <repository_url>
+git add <file>  or  git add . or git add –all
+git status
+git commit -m “<message>”
+
+git push remote origin url
